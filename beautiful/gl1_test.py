@@ -52,8 +52,6 @@ if __name__=="__main__":
     print(type_links(all_links(t))[0])
     print(type_links(all_links(t))[1])
 
-
-
     #if t!=None:
         #print(t)
         #title = getTitle(t)
